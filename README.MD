@@ -38,8 +38,8 @@ In this project I use several technologies, libraries and frameworks such as
 
 ## Install & Usage
 
-```sh
-$ npm i @prime_/contact-app
+```
+npm i @prime_/contact-app
 ```
 
 <p> After the installation is complete, move the contact-app folder located in the node_modules folder to the root folder of your project.</p>
