@@ -1,0 +1,8 @@
+# Ignore all folders in node_modules
+node_modules/*
+
+# Except specific folders
+!node_modules/moment/
+!node_modules/moment-timezone/
+!node_modules/validator/
+!node_modules/yargs/
