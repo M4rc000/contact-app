@@ -38,7 +38,7 @@ In this project I use several technologies, libraries and frameworks such as
 
 ## Install & Usage
 
-```
+```sh
 $ npm i @prime_/contact-app
 ```
 
